@@ -5,3 +5,4 @@
 * [first-css](https://kh-eugene.github.io/first-css/index.html)
 * [psd-css-practice](https://kh-eugene.github.io/psd-css-practice/index.html)
 * [psd-css-homework](https://kh-eugene.github.io/psd-css-homework/index.html)
+* [css-selector](https://kh-eugene.github.io/css-selector/index)
